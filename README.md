@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏖️ Ultimate Praia
 
 Sistema completo de gerenciamento para operações de praia, desenvolvido para otimizar o controle de guarda-vidas, postos, materiais e cautelas.
@@ -152,6 +151,7 @@ Para dúvidas ou sugestões, abra uma issue no GitHub.
 ---
 
 Desenvolvido com ❤️ para melhorar a gestão de operações de praia
+
 =======
 # ultimate-praia-portfolio
 >>>>>>> 88d4660614413e7865077954fc1ac5ccd921b2af
